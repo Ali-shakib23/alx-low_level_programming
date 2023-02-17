@@ -8,7 +8,7 @@
  *
  * Description: prints positve, negative or zero
  *
- * Return: Description of the returned value
+ * Return: 0 terminate the program
  */
 int main(void)
 {
