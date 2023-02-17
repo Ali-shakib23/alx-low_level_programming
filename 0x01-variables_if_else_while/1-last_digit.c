@@ -12,7 +12,7 @@
  * Description: prints last digit status
  *
  * Return: Description of the returned value
- */
+ */ 
 int main(void)
 {
 	int n;
