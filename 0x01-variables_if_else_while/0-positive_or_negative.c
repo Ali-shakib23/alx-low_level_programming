@@ -7,7 +7,7 @@
 /* Main - Entry point */
 /* Description : program that checks if the number */
 /* Return : 0 terminate the program */
-int main(void)
+int main(void) /* main function : Entry point */
 {
 	int n;
 
