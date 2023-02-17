@@ -1,7 +1,7 @@
 #include<stdio.h>
-/*
- *main- function where the program runs first
- *return 0: terminate the program 
+/**
+ * main - function where the program runs first
+ * return :0 to terminate the program 
  */
 int main(void) 
 {
