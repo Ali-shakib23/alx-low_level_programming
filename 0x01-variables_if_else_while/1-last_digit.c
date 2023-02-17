@@ -4,15 +4,13 @@
 #include <string.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-
 /**
  * main - Entry point
  *
  * Description: prints last digit status
  *
  * Return: 0 to termin\te the program
- */
+ */
 int main(void)
 {
 	int n;
