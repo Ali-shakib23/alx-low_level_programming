@@ -6,11 +6,10 @@
 /* betty style doc for function main goes there */
 /* main - Entry point */
 /* description : program that checks if the number */
- 
+/* return : 0 terminate the program */
 int main(void) 
 {
 	int n;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
@@ -24,7 +23,7 @@ int main(void)
 	}
 	else 
 	{	
-		printf("%d is negative\n", n);
+		printf("%d is negative\n", n;
 	}
 	return (0);
 }
