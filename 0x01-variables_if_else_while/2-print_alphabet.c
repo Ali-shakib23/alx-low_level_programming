@@ -8,17 +8,16 @@
  * Description: prints lowercase
  *
  * Return: 0 terminate the program
- */
-
+ */
 int main(void)
 {
 	int ch = 97;
 
-	while(ch <= 'z')
+	while (ch <= 'z')
 	{
 		putchar(ch);
-		putchar('\n');
-		ch ++;
+		ch++;
 	}
+	putchar('\n');
 	return (0);
 }
