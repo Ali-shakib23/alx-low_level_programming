@@ -4,10 +4,10 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/* Main - Entry point */
+/* function main - Entry point */
 /* Description : program that checks if the number */
 /* Return : 0 terminate the program */
-int main(void) /* main function : Entry point */
+int main(void) /*function  main : Entry point */
 {
 	int n;
 
