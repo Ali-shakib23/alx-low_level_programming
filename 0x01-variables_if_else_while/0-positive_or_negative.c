@@ -3,11 +3,14 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-/* function main - Entry point */
-/* Description : program that checks if the number */
-/* Return : 0 terminate the program */
-int main(void) /*function  main : Entry point */
+/**
+ * main - Entry point
+ * 
+ * Description: prints positve, negative or zero
+ * 
+ * Return: Description of the returned value
+ */
+int main(void)
 {
 	int n;
 
