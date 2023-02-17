@@ -5,9 +5,9 @@
 
 /**
  * main - Entry point
- * 
+ *
  * Description: prints positve, negative or zero
- * 
+ *
  * Return: Description of the returned value
  */
 int main(void)
