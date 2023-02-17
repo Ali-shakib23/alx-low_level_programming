@@ -9,14 +9,14 @@
 int main(void)
 { 
 	char ch;
-	pritnf("size of a char: %lu byte(s)\n",sizeof(ch));
+	printf("size of a char: %lu byte(s)\n",sizeof(ch));
 	int x;
-	pritnf("size of a int: %lu byte(s)\n",sizeof(x));
+	printf("size of a int: %lu byte(s)\n",sizeof(x));
 	long int y;
-	pritnf("size of a long int: %lu byte(s)\n",sizeof(y));
+	printf("size of a long int: %lu byte(s)\n",sizeof(y));
 	long long int s;
-	pritnf("size of a long long int: %lu byte(s)\n",sizeof(s));
+	printf("size of a long long int: %lu byte(s)\n",sizeof(s));
  	float f;
-	pritnf("size of a float: %lu byte(s)\n",sizeof(f));
+	printf("size of a float: %lu byte(s)\n",sizeof(f));
 	return (0);
 }
