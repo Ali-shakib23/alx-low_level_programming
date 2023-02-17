@@ -11,8 +11,8 @@
  *
  * Description: prints last digit status
  *
- * Return: Description of the returned value
- */ 
+ * Return: 0 to termin\te the program
+ */
 int main(void)
 {
 	int n;
