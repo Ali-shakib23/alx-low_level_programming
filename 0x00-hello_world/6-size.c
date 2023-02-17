@@ -18,4 +18,5 @@ int main(void)
 	pritnf("size of a long long int: %lu byte(s)\n",sizeof(s));
  	float f;
 	pritnf("size of a float: %lu byte(s)\n",sizeof(f));
+	return (0);
 }
