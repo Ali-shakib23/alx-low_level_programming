@@ -4,7 +4,7 @@
  * main - Entry point
  *Description : program that prints using printf 
  *Return : 0 to terminate the program
- */
+ **/
 
 int main(void)
 {
