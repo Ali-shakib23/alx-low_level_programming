@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * main - function where the program runs first
+ * main - Entry point
  * Description: a programm that prints "\"programming is like building a multilignual puzzle"
- * return :0 to terminate the program 
+ * Return :0 to terminate the program 
  */
 
 int main(void) 
