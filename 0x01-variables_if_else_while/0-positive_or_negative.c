@@ -4,14 +4,15 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/* main - Entry point */
-/* description : program that checks if the number */
-/* return : 0 terminate the program */
-int main(void) 
+/* Main - Entry point */
+/* Description : program that checks if the number */
+/* Return : 0 terminate the program */
+int main(void)
 {
 	int n;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+	
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
