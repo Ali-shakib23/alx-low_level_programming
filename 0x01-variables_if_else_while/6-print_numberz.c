@@ -13,9 +13,10 @@ int main(void)
 	int chr;
 
 	chr = 0;
-	while(chr < 10)
+	while (chr < 10)
 	{
 		putchar(chr + '0');
+		chr++;
 	}
 	putchar('\n');
 	return (0);
