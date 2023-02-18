@@ -15,7 +15,7 @@ int main(void)
 	chr = 0;
 	while(chr < 10)
 	{
-		putchar(a + '0');
+		putchar(chr + '0');
 	}
 	putchar('\n');
 	return (0);
