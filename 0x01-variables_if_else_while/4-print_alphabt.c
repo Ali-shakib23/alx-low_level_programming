@@ -11,16 +11,16 @@
  */
 int main(void)
 {
-        int ch = 97;
+	int ch = 97;
 
-        while (ch <= 'z')
+	while (ch <= 'z')
         {
-		if (ch !='e' && ch != 'q')
+		if (ch != 'e' && ch != 'q')
 		{
 			putchar(ch);
 		}
-                ch++;
-        }
-        putchar('\n');
+		ch++;
+	}
+	putchar('\n');
 	return (0);
 }
