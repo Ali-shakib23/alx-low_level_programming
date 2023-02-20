@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Entry point 
+ *
  * Description: a programm that prints
- * Return :0 to terminate the program
+ *
+ * return :0 to terminate the program
  **/
 int main(void)
 {
