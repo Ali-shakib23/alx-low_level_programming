@@ -1,13 +1,12 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
- *Description : program that prints using printf 
+ * Description: lowercase and uppercase
  *
- * Return : 0 to terminate the program
- **/
-
+ * Return: 0 to terminate the program
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,");
