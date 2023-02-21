@@ -5,7 +5,7 @@
  *
  * Description: a programm that prints
  *
- * return : 0 to terminate the program
+ * Return : 0 to terminate the program
  */
 int main(void)
 {
