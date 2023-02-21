@@ -1,11 +1,12 @@
 #include <stdio.h>
 
+
 /**
  * main - Entry point
  *
- * Description: a programm that prints
+ * Description: program that prints
  *
- * Return : 0 to terminate the program
+ * Return: 0 to terminate the program
  */
 int main(void)
 {
