@@ -8,7 +8,7 @@
  * Return: 0 to terminate the program
  */
 int main(void)
-{ 
+{
 	char ch;
 	printf("size of a char: %lu byte(s)\n", sizeof(ch));
 	int x;
@@ -17,7 +17,7 @@ int main(void)
 	printf("size of a long int: %lu byte(s)\n", sizeof(y));
 	long long int s;
 	printf("size of a long long int: %lu byte(s)\n", sizeof(s));
- 	float f;
+	float f;
 	printf("size of a float: %lu byte(s)\n", sizeof(f));
 	return (0);
 }
