@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- * print_sign : check if +ve , -ve or zero
+ * print_sign - check if +ve , -ve or zero
+ *
+ * @n: number as integer
  *
  * Return: 0 to terminate the program
  */
