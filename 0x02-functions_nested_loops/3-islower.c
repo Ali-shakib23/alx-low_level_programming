@@ -2,7 +2,7 @@
 /**
  * _islower - check if lowercase
  *
- * c - asci code character
+ * @c: asci code character
  *
  * Return: 0 to terminate the program
  */
