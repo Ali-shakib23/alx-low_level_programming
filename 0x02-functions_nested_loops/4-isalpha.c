@@ -2,7 +2,7 @@
 /**
  * _isalpha - check if it is a letter
  *
- * @c: character 
+ * @c: character
  *
  * Return: 0 to terminate the program
  */
