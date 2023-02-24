@@ -2,6 +2,8 @@
 /**
  * print_line - print straight line
  *
+ * @n: number as size of the line
+ *
  * Return: no return since void
  */
 void print_line(int n)
