@@ -1,10 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
+ * print_line - print straight line
  *
- * Description: prints positve, negative or zero
- *
- * Return: Description of the returned value
+ * Return: no return since void
  */
 void print_line(int n)
 {
@@ -12,7 +10,7 @@ void print_line(int n)
 
 	if (n > 0)
 	{
-		for (i = 0; i < 2; i++)
+		for (i = 0; i < n; i++)
 		{
 			_putchar('_');
 		}
